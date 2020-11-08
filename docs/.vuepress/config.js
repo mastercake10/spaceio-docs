@@ -27,6 +27,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    displayAllHeaders: true,
     repo: '',
 	logo: '/assets/img/logo.png',
     editLinks: false,
@@ -35,7 +36,7 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Docs',
+        text: 'Plugins',
         link: '/docs/',
       },
       {
@@ -65,8 +66,10 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'config',
+            'installation',
+            'usage',
             'commands',
+            'config',
           ]
         }
       ],
@@ -89,5 +92,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    '@vuepress/back-to-top',
   ]
 }
