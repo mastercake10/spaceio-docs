@@ -21,5 +21,5 @@ All features from CustomOreGen plus:
 - Fence Generators
   - You can enable this in the config.yml
 - [Placeholders](./usage.md#placeholders)
-- [ItemAdder](https://itemsadder.plugin.ga/) is supported, so you can use custom blocks.
+- [ItemsAdder](https://itemsadder.plugin.ga/) is supported, so you can use custom blocks.
 - Works with a large varity of SkyBlock plugins, see [CustomOreGen](/plugin/customoregen/installation.html#supported-skyblock-plugins).
