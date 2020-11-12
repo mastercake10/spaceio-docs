@@ -1,6 +1,11 @@
 # Commands and Permissions
 
-| Command | Permission | Description |
-| -------- | -------- | -------- |
-| /CustomOreGen     | CustomOreGen.admin     | Reloads the configuration file     |
-| /CustomOreGen inspect \<player\>     | CustomOreGen.admin     | Allows you to show information about current generator specs of a player     |
+### /customoregen
+- Permission: `customoregen.admin`
+- Type: `admin`
+Reloads the config.yml file
+
+### /customoregen inspect \<player\> 
+- Permission: `customoregen.admin`
+- Type: `admin`
+Reloads the config.yml file

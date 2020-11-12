@@ -14,6 +14,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "markdown-it-html5-embed": "^1.0.0",
     "vuepress": "^1.5.3"
   }
 }
