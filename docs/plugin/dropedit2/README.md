@@ -1,3 +1,9 @@
+---
+title: DropEdit2 Spigot Plugin
+description: A very easy loot table editor that allows you changing mob drops, block drop, and fish drops!
+lang: en-US
+---
+
 # Introduction
 
 [![Spiget Version](https://img.shields.io/spiget/version/60331?label=spigot)](https://www.spigotmc.org/resources/dropedit-2-advanced-drop-editor.60331/)

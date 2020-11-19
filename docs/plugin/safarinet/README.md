@@ -1,3 +1,8 @@
+---
+title: SafariNet Spigot Plugin
+description: Allows players catching mobs and releasing them!
+lang: en-US
+---
 # Introduction
 
 [![Spiget Version](https://img.shields.io/spiget/version/9732?label=spigot)](https://www.spigotmc.org/resources/safarinet-premium-mob-catcher-plugin.9732/)

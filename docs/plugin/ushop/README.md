@@ -1,3 +1,8 @@
+---
+title: UShop Spigot Plugin
+description: Simple sell all your items in a fancy sell shop gui in one click!
+lang: en-US
+---
 # Introduction
 
 [![GitHub latest-release](https://img.shields.io/github/v/release/mastercake10/ushop)](https://github.com/mastercake10/ushop/releases)

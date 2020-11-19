@@ -15,6 +15,10 @@
   "license": "MIT",
   "dependencies": {
     "markdown-it-html5-embed": "^1.0.0",
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-robots": "^1.0.1"
+  },
+  "devDependencies": {
+    "vuepress-plugin-seo": "^0.1.4"
   }
 }

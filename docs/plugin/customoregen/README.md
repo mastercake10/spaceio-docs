@@ -1,3 +1,9 @@
+---
+title: CustomOreGen Spigot Plugin
+description: Powerful cobblestone generator editor for any SkyBlock plugin!
+lang: en-US
+---
+
 # Introduction
 
 [![GitHub latest-release](https://img.shields.io/github/v/release/mastercake10/customoregen)](https://github.com/mastercake10/CustomOreGen/releases)

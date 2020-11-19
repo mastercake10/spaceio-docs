@@ -1,3 +1,9 @@
+---
+title: AdvancedOreGen Spigot Plugin
+description: Powerful cobblestone generator editor for any SkyBlock plugin!
+lang: en-US
+---
+
 # Introduction
 
 [![Spiget Version](https://img.shields.io/spiget/version/40527?label=spigot)](https://www.spigotmc.org/resources/advancedoregen.40527/)

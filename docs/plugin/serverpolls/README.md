@@ -1,3 +1,8 @@
+---
+title: ServerPolls Spigot Plugin
+description: Create polls for your server in chat
+lang: en-US
+---
 # Introduction
 
 [![Spiget Version](https://img.shields.io/spiget/version/72690?label=spigot)](https://www.spigotmc.org/resources/poll-thingy.72690/)

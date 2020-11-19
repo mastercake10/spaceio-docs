@@ -12,4 +12,6 @@ features:
 - title: Support.
   details: You get instant support on our discord server when buying a premium plugin.
 footer: Made by MasterCake and Neo with ❤️
+description: Quality spigot plugins for enhancing your server.
+lang: en-US
 ---
