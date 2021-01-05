@@ -36,6 +36,12 @@ Allows crafting of reusable eggs.
 ### safarinet.use
 Used to allow both release and capturing of mobs.
 
+### safarinet.use.singleuse
+Allow only singleuse egg catching.
+
+### safarinet.use.reusable
+Allow only reusable catching.
+
 ### safarinet.release.\<mob\>
 Per-mob permssion. Allows to release this mob type. Must be enabled in config.
 
