@@ -15,7 +15,9 @@ Buy me a coffee to keep up my projects!
 
 BTC: bc1q3mul2mdam4qq67f8pkuptdqjukrrd29hd4zdq8
 
+
 XMR: 48cSXKFDLaRbfGbSsYEtPD76xctQhDvHrRKW5UQb9yHYbgbJrJMkMX17s6dXRGsmjieDjKAGTut2aMXG2oHCxqE2GJYMJVn
+
 
 ETH: 0x4B057F1b46dAB2FFb252d2b9E8317DBa747aA16d
 
