@@ -4,26 +4,26 @@ This is the plugin documentation website of SpaceIO.
 
 If you find something missing, please contact us on [Discord](https://discord.spaceio.xyz/).
 
+If you want to buy plugins with crypto (btc, xmr, eth) please contact me (MasterCake) on discord.
+
 ## Developers
 
 * [MasterCake](https://www.spigotmc.org/members/mastercake.29634/)
 * [Neo/Scorpion](https://www.spigotmc.org/members/scorpion.40073/)
 
-## Donations
+## Donate
 
 Buy me a coffee to keep up my projects!
 
-BTC: bc1q3mul2mdam4qq67f8pkuptdqjukrrd29hd4zdq8
+BTC:
+bc1q3mul2mdam4qq67f8pkuptdqjukrrd29hd4zdq8
 
+XMR:
+48cSXKFDLaRbfGbSsYEtPD76xctQhDvHrRKW5UQb9yHYbgbJrJMkMX17s6dXRGsmjieDjKAGTut2aMXG2oHCxqE2GJYMJVn
 
-XMR: 48cSXKFDLaRbfGbSsYEtPD76xctQhDvHrRKW5UQb9yHYbgbJrJMkMX17s6dXRGsmjieDjKAGTut2aMXG2oHCxqE2GJYMJVn
+ETH:
+0x4B057F1b46dAB2FFb252d2b9E8317DBa747aA16d
 
-
-ETH: 0x4B057F1b46dAB2FFb252d2b9E8317DBa747aA16d
-
-<Icon src="qr_code_btc.png" caption="BTC" href=""></Icon>
-<Icon src="qr_code_xmr.png" caption="XMR" href=""></Icon>
-<Icon src="qr_code_eth.png" caption="ETH" href=""></Icon>
 
 ## Plugins
 
