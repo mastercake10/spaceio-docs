@@ -15,13 +15,13 @@ If you want to buy plugins with crypto (btc, xmr, eth) please contact me (Master
 
 Buy me a coffee to keep up my projects!
 
-BTC:
-bc1q3mul2mdam4qq67f8pkuptdqjukrrd29hd4zdq8
+Bitcoin-Cash (BCH):
+qr6mygu4wpmyr6ewtqt4pddcxjnj3d0kvqpd97cxs7
 
-XMR:
+Monero (XMR):
 48cSXKFDLaRbfGbSsYEtPD76xctQhDvHrRKW5UQb9yHYbgbJrJMkMX17s6dXRGsmjieDjKAGTut2aMXG2oHCxqE2GJYMJVn
 
-ETH:
+Ethereum (ETH):
 0x4B057F1b46dAB2FFb252d2b9E8317DBa747aA16d
 
 
