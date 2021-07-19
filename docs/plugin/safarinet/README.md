@@ -41,3 +41,4 @@ There are a plenty of plugins supported by SafariNet. They're all integrated by 
 - BentoBox
 - ResidenceNS
 - Residence
+- Lands
