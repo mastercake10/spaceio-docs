@@ -12,10 +12,11 @@ SafariNet is a **mob catcher plugin** that allows your players to catch and rele
 
 
 ## Features
-* 1.8 through 1.16 compatibility
+* 1.8 through 1.18.1 compatibility
 * Support for modpack mobs
 * Saves the **whole entity data**, including villager trades, chest content in mules, health, sheep color etc.
 * Singleuse and reusable eggs
+* Customizable SafariNet item (**Modeldata** supported)
 * Mob Spawning through dispensers or right clicking
 * Configurable **crafting recipes**
 * Permission Nodes for Spawn Egg Crafting (Reusable and Single-Use Spawn Eggs)
@@ -42,3 +43,4 @@ There are a plenty of plugins supported by SafariNet. They're all integrated by 
 - ResidenceNS
 - Residence
 - Lands
+- FabledSkyblock

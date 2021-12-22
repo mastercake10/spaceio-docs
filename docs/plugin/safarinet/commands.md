@@ -14,6 +14,11 @@ Reloads the configurations and recipes.
 - Type: `admin`
 Gives empty safarinets to a player at a certain amount and type.
 
+### /safarinet set \<singleuse/reusable\>
+- Permission: `safarinet.set`
+- Type: `admin`
+Sets the default safarinet item for the specified egg type to the item in hand. Supports custom model data.
+
 ### /safarinet recipe \<singleuse/reusable\>
 - Permission: `safarinet.recipe`
 - Type: `user`

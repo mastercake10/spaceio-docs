@@ -27,6 +27,9 @@ An enderpearl with strings surrounded
 
 An eye of ender with strings surrounded
 
+## Change default safarinet item
+
+The default safarinet item can be changed by using the `/safarinet set` command. It creates a new configuration section in the config.yml, so basically overwriting the default item.
 
 ## Change spawner types
 
