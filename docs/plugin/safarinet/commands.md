@@ -56,5 +56,5 @@ Per-mob permssion. Allows to capture this mob type. Must be enabled in config.
 ### safarinet.releasemob.use, safarinet.capturemob.use
 These 2 permissions can be used instead of safarinet.use to allow everyone to release mobs while allowing only a donator rank(or other) to capture them.
 
-### safarinet.changespawnertype.primitiv.<entity-type>
+### safarinet.changespawnertype.primitiv.\<entity-type\>
 Permission for changing spawner types [more](usage.html#change-spawner-types).
