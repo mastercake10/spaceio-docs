@@ -70,6 +70,7 @@ module.exports = {
             'usage',
             'commands',
             'config',
+            'api',
             'faq',
           ]
         }
