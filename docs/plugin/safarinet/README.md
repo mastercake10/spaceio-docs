@@ -12,7 +12,7 @@ SafariNet is a **mob catcher plugin** that allows your players to catch and rele
 
 
 ## Features
-* 1.8 through 1.18.1 compatibility
+* 1.8 through 1.18.2 compatibility
 * Support for modpack mobs
 * Saves the **whole entity data**, including villager trades, chest content in mules, health, sheep color etc.
 * Singleuse and reusable eggs
