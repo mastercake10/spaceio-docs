@@ -1,6 +1,23 @@
 # Developer API
 
 All API relevant classes can be found inside the `de.Linus122.SafariNet.API` package.
+
+## Maven repository
+```xml
+<!-- SpaceIO repository -->
+<repository>
+    <id>spaceio-repo</id>
+    <url>https://repo.spaceio.xyz/repository/maven-public/</url>
+</repository>
+
+<dependency>
+  <groupId>xyz.spaceio</groupId>
+  <artifactId>SafariNet</artifactId>
+  <version>1.15.37-SNAPSHOT</version>
+</dependency>
+```
+
+
 ## Capture/Release listener
 
 You can listen for the catch and/or release event and cancel it by modifying the status:
