@@ -12,8 +12,7 @@ SafariNet is a **mob catcher plugin** that allows your players to catch and rele
 
 
 ## Features
-* 1.8 through 1.18.2 compatibility
-* Support for modpack mobs
+* 1.8 through 1.19.4 compatibility
 * Saves the **whole entity data**, including villager trades, chest content in mules, health, sheep color etc.
 * Singleuse and reusable eggs
 * Customizable SafariNet item (**Modeldata** supported)
@@ -29,18 +28,19 @@ SafariNet is a **mob catcher plugin** that allows your players to catch and rele
 
 There are a plenty of plugins supported by SafariNet. They're all integrated by checking whether or not a player has permission for capturing or releasing a mob in an area managed by the plugin or on an entity managed by the plugin.
 
-- WorldGuard
-- GriefPrevention
-- GriefDefender
-- MyPet
-- SimplePets
-- ZHorse
-- PlotSquared
-- Towny
-- MythicMob
-- Citizens
-- BentoBox
-- ResidenceNS
-- Residence
-- Lands
-- FabledSkyblock
+- WorldGuard (protection)
+- GriefPrevention (protection)
+- GriefDefender (protection)
+- MyPet (block mobs from being caught)
+- SimplePets (block mobs from being caught)
+- ZHorse (block mobs from being caught)
+- PlotSquared (protection)
+- Towny (protection)
+- MythicMob (MythicMobs are captureable, custom name in lore)
+- Citizens (block mobs from being caught)
+- BentoBox (protection)
+- ResidenceNS (protection)
+- Residence (protection)
+- Lands (protection)
+- FabledSkyblock (protection)
+- RoseStacker (capturing stacks, combining them etc.)
