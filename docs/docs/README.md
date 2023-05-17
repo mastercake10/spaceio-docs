@@ -15,6 +15,8 @@ If you want to buy plugins with crypto (btc, xmr, eth) please contact me (Master
 
 Buy me a coffee to keep up my projects!
 
+https://ko-fi.com/mastercake (get a fancy sponsor role on the spaceio discord!)
+
 Bitcoin Cash (BCH):
 
 qr6mygu4wpmyr6ewtqt4pddcxjnj3d0kvqpd97cxs7
