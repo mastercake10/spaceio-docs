@@ -1,5 +1,8 @@
 # Usage
 
+**tl;dr**:
+Get an egg `/safarinet give <player> reusable`. Give your players permission to use it `/lp group default permission set safarinet.use true`. Done, you're all set. Players can craft safarinets by default.
+
 SafariNets can be *crafted* or be *given* using [commands](./commands.md).
 
 There are two types of SafariNets: **reusable** and **single-use**. The single-use safarinet will disappear after releasing a mob that got trapped into the safarinet before. The reusable egg can be used infinitely.
