@@ -43,4 +43,5 @@ There are a plenty of plugins supported by SafariNet. They're all integrated by 
 - Residence (protection)
 - Lands (protection)
 - FabledSkyblock (protection)
+- SuperiorSkyblock2 (protection, privilege)
 - RoseStacker (capturing stacks, combining them etc.)
