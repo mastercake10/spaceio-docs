@@ -11,7 +11,7 @@ Buy and download the [latest version](https://www.spigotmc.org/resources/safarin
 
 ## Plugin compatibility
 
-SafariNet should work out of the box with most protection plugins listed in [supported plugins](./usage.md#supported-plugins).
+SafariNet should work out of the box with most protection plugins listed in [supported plugins](./README.md#supported-plugins).
 
 However, here a few setup notes for some plugins.
 
@@ -34,7 +34,7 @@ permissions:
       type: GHAST_SPAWN_EGG
       lore:
         - '&7Allows the player to capture and release animals.'
-        - '&7Aktuell: &cDENY&7.'
+        - '&7Current: &cDENY&7.'
     role-permission:
       name: '&6SafariNet'
       type: GHAST_SPAWN_EGG
