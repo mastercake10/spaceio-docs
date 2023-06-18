@@ -33,6 +33,16 @@ An eye of ender with strings surrounded
 ## Change default safarinet item
 
 The default safarinet item can be changed by using the `/safarinet set` command. It creates a new configuration section in the config.yml, so basically overwriting the default item.
+You can also use the config.yml for configuring the item. For *custom model data* you can simply add it to the `config.yml` file like this:
+
+```yml
+reusable:
+  display-name: "&7SafariNet &3(&7Reusable&3)"
+  lore: "Right click on an entity%to catch it!"
+  material: STICK
+  CustomModelData: 0
+  (...)
+```
 
 ## Change spawner types
 
