@@ -91,22 +91,22 @@ Placeholders:
 
 The following plugins/sections are supported:
 
-* [placeholderapi](./usage.md#PlaceholderAPI)
-* [mcmmo](./usage.md#McMMO)
-* [bcgems](./usage.md#Gems)
-* [jobs reborn](./usage.md#Jobs Reborn)
-* [quests](./usage.md#Quests)
-* [votifier](./usage.md#Vote)
-* [nuvotifier](./usage.md#Vote)
-* [mmocore](./usage.md#MmoCore)
-* [playerpoints](./usage.md#Points)
-* [skillapi](./usage#SkillAPI)
-* [vault](./usage.md#Vault)
-* [mcrpg](./usage.md#McRPG)
-* [player](./usage.md#Player)
-* [playerstatistics](./usage.md#Player Statistics)
-* [advancements](./usage.md#Advancements)
-* [towny](./usage.md#Towny)
+* [placeholderapi](./usage.md#placeholderapi)
+* [mcmmo](./usage.md#mcmmo)
+* [bcgems](./usage.md#gems)
+* [jobs reborn](./usage.md#jobs-reborn)
+* [quests](./usage.md#quests)
+* [votifier](./usage.md#vote)
+* [nuvotifier](./usage.md#vote)
+* [mmocore](./usage.md#mmocore)
+* [playerpoints](./usage.md#points)
+* [skillapi](./usage#skillapi)
+* [vault](./usage.md#vault)
+* [mcrpg](./usage.md#mcrpg)
+* [player](./usage.md#player)
+* [playerstatistics](./usage.md#player-statistics)
+* [advancements](./usage.md#advancements)
+* [towny](./usage.md#towny)
 
 The format for requirements differ from plugin to plugin, but essentially its just a list of arguments.
 For example for mcmmo:
