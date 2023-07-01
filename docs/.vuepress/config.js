@@ -145,6 +145,21 @@ module.exports = {
           ]
         }
       ],
+      '/plugin/bcranks/': [
+        {
+          title: 'AdvancedBCRanks',
+          collapsable: false,
+          children: [
+            '',
+            'installation',
+            'usage',
+            'commands',
+            'config',
+            'api',
+            'faq',
+          ]
+        }
+      ],
       '/': [
         {
           title: 'Plugins',
@@ -157,6 +172,7 @@ module.exports = {
             ['plugin/dropedit2/', 'DropEdit2'],
             ['plugin/ushop/', 'uShop'],
             ['plugin/serverpolls/', 'ServerPolls'],
+            ['plugin/bcranks/', 'AdvancedBCRanks'],
           ]
         }
       ],

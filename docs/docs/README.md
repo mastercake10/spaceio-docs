@@ -38,3 +38,4 @@ Ethereum (ETH):
 <Icon src="customoregen.jpg" caption="CustomOreGen" href="../plugin/customoregen/"></Icon>
 <Icon src="serverpolls.jpg" caption="ServerPolls" href="../plugin/serverpolls/"></Icon>
 <Icon src="ushop.jpg" caption="uShop" href="../plugin/ushop/"></Icon>
+<Icon src="BCRanks.jpg" caption="BCRanks" href="../plugin/bcranks/"></Icon>
