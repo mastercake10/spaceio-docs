@@ -47,11 +47,11 @@ Allow only singleuse egg catching.
 ### safarinet.use.reusable
 Allow only reusable catching.
 
-### safarinet.release.\<mob\>
-Per-mob permssion. Allows to release this mob type. Must be enabled in config.
+### safarinet.release.\<mob|passive\>
+Per-mob permssion. Allows to release this mob type, or all passive mobs. Must be enabled in config.
 
-### safarinet.capture.\<mob\>
-Per-mob permssion. Allows to capture this mob type. Must be enabled in config.
+### safarinet.capture.\<mob|passive\>
+Per-mob permssion. Allows to capture this mob type, or all passive mobs. Must be enabled in config.
 
 ### safarinet.releasemob.use, safarinet.capturemob.use
 These 2 permissions can be used instead of safarinet.use to allow everyone to release mobs while allowing only a donator rank(or other) to capture them.
