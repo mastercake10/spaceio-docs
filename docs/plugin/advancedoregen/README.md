@@ -9,7 +9,7 @@ lang: en-US
 [![Spiget Version](https://img.shields.io/spiget/version/40527?label=spigot)](https://www.spigotmc.org/resources/advancedoregen.40527/)
 ![Spiget Rating](https://img.shields.io/spiget/rating/40527)
 
-AdvancedOreGen is a superior ore generation plugin that comes with a handy GUI interface and a few additions on top of [CustomOreGen](/plugin/customoregen/).
+[AdvancedOreGen](https://pluginboard.com/plugin/advancedoregen) is a superior ore generation plugin that comes with a handy GUI interface and a few additions on top of [CustomOreGen](/plugin/customoregen/).
 
 ![AOG Showcase](./img/aog-showcase.gif)
 ## Features

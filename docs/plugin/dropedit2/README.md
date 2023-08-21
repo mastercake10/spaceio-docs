@@ -9,7 +9,7 @@ lang: en-US
 [![Spiget Version](https://img.shields.io/spiget/version/60331?label=spigot)](https://www.spigotmc.org/resources/dropedit-2-advanced-drop-editor.60331/)
 ![Spiget Rating](https://img.shields.io/spiget/rating/60331)
 
-DropEdit2 is a **GUI based** plugin that makes configuring new drops easy. The plugin lets you change drops from blocks, from mobs and from fishing.
+[DropEdit2](https://pluginboard.com/plugin/dropedit) is a **GUI based** plugin that makes configuring new drops easy. The plugin lets you change drops from blocks, from mobs and from fishing.
 Thanks to the GUI, you're able to add any item you want, including those with lores, displaynames, enchantments and even NBT-Data!
 In addition, DropEdit2 offers a menu for setting a custom experience drop for killing mobs, mining blocks and catching fishes. In addition, you can add commands that are executed when "dropped".
 

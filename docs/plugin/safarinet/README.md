@@ -8,7 +8,7 @@ lang: en-US
 [![Spiget Version](https://img.shields.io/spiget/version/9732?label=spigot)](https://www.spigotmc.org/resources/safarinet-premium-mob-catcher-plugin.9732/)
 ![Spiget Rating](https://img.shields.io/spiget/rating/9732)
 
-SafariNet is a **mob catcher plugin** that allows your players to catch and release every mob in the world of Minecraft. It's a nice solution if you want to transport mobs through worlds or even if you want to spawn a certain mob using a dispenser. But, what's the special about this plugin? This plugin works with NBT. That means that this plugin **stores all information** of a mob, things like saddles, horse variant, donkey chests, custom names, hp, villager trades, and armor.
+[SafariNet](https://pluginboard.com/plugin/safarinet) is a **mob catcher plugin** that allows your players to catch and release every mob in the world of Minecraft. It's a nice solution if you want to transport mobs through worlds or even if you want to spawn a certain mob using a dispenser. But, what's the special about this plugin? This plugin works with NBT. That means that this plugin **stores all information** of a mob, things like saddles, horse variant, donkey chests, custom names, hp, villager trades, and armor.
 
 
 ## Features
