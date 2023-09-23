@@ -82,7 +82,7 @@ As stated above, the precise mode is very accurately. Thus you need to set a per
 
 ### Command Tag
 
-The Command Tag allows you to execute (via console) a defined command upon drop. It acts like a normal item within the drop inventory, but will execute a command instead of dropping it. It also will replace `%player` with the player name.
+The Command Tag allows you to execute (via console) a defined command upon drop. It acts like a normal item within the drop inventory, but will execute a command instead of dropping it. It also will replace `%player%` with the player name.
 
 ### Batch Container
 
