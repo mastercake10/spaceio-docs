@@ -72,7 +72,7 @@ Using the classic mode, DropEdit2 would choose a random item depending on the pr
 #### Precise Mode
 
 As stated above, the precise mode is very accurately. Thus you need to set a percentage for every item you put in. This can be done by right-clicking any item in the inventory, and typing the desired percentage in decimal using an anvil GUI.
-
+To remove an item, simply shift-leftclick it.
 
 *Your overall percentage should equal 100.0 for best results.*
 
