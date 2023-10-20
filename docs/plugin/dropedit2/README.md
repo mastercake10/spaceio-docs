@@ -15,13 +15,14 @@ In addition, DropEdit2 offers a menu for setting a custom experience drop for ki
 
 ![DropEdit2 Showcase](./img/dropedit2-showcase.mp4)
 ## Features
-- Custom drops by chance (also below 1%)
+- Custom item drops by chance (also below 1%)
 - Two modes: precise or simple mode.
 - Any item type supported
 - Editable mob drops, block drops and fishing drops:
   - Experience drops
   - Spawn flags (disallow drops from e.g. spawners)
   - Togglable vanilla drops
+- Mobs from MythicMobs supported
 - Batch containers (You can drop multiple drops at once)
 - Command drops
 - .. and much more!

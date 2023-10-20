@@ -21,6 +21,8 @@ All the drop configuration is done via the GUI. While it is pretty much self-exp
 
 The mob drop gui covers all entities found in vanilla minecraft. Using the arrow in the bottom left corner will turn the page.
 
+If you have MythicMobs installed, it will add those mobs too.
+
 After selecting a mob, the option gui will appear.
 
 
