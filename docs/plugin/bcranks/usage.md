@@ -332,6 +332,10 @@ The good part about using placeholders in this manner is you can pretty much cre
 | unarmed     | Integer     |  'mcmmo;unarmed;50;Reached unarmed level %s.;Reach unarmed level %s. Current: %current%'   |
 | woodcutting     | Integer     |  'mcmmo;woodcutting;50;Reached woodcutting level %s.;Reach woodcutting level %s. Current: %current%'   |
 
+| Special | Value | Example |
+| -------- | -------- | -------- |
+| powerlevel     | Integer     |  'mcmmo;powerlevel;50;Reached Power level level %s.;Reach Power level %s. Current: %current%'   |
+
 
 **Please note: The list only contains "primary" skills, not sub/secondairy skill types, or activation skill types(such as blast mining)
 The plugin only supports primary skills listed above.**
