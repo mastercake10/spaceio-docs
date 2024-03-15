@@ -104,6 +104,7 @@ AdvancedOreGen caches the player permissions for keeping the same cobblestone ge
 ## Placeholders
 
 The plugin uses the PlaceholderAPI and registers three different identifiers that display the current specifiations from a player's generator.
+Some server owners make use of these Placeholders by creating their own /generator menu using [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/).
 
 
 

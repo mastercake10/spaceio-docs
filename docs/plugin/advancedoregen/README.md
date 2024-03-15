@@ -29,3 +29,5 @@ All features from CustomOreGen plus:
 - [Placeholders](./usage.md#placeholders)
 - [ItemsAdder](https://itemsadder.plugin.ga/) is supported, so you can use custom blocks.
 - Works with a large varity of SkyBlock plugins, see [CustomOreGen](/plugin/customoregen/installation.html#supported-skyblock-plugins).
+- Fast generators (Turn obsidian into a normal generator instead that is faster)
+

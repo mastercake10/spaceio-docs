@@ -1,4 +1,13 @@
 # FAQ
 ::: details Does this plugin need a skyblock plugin?
-Yes it does. The plugin is used to obtain the permssion (or level) of the owner, in order to choose a generator. In a plain vanilla world, there is no way to fetch directly the player permissions mining on the generator. What if two players are mining at one generator, but both have access to different generators?layer mining on a generator, while ignoring the island level (because there isn’t any)
-:::
+Not essentially, but keep in mind that without a skyblock plugin it will use the nearest player's permission to check for the right generator.
+If you do have a skyblock plugin, you can use the island level of the owner instead to rank up the generator. Also, it will always use the permission of the Island owner the generator is on.
+::
+::: details I want the ore generator to depend on the nearest player, not the island owner's permission
+For this you can "force the vanilla hook" inside the config.yml `force-hook: vanilla`.
+::
+
+::: I want to edit the config.yml manually.
+Caution! While editing the generator using the GUI, it will overwrite the config.yml whenever a value is changed. So ensure that you are not editing the config.yml file manually and in game at the same time.
+If you do want to edit the config.yml manually, use `/oregen reload` to load your manual config.yml changes in.
+::
