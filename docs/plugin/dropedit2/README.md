@@ -13,6 +13,8 @@ lang: en-US
 Thanks to the GUI, you're able to add any item you want, including those with lores, displaynames, enchantments and even NBT-Data!
 In addition, DropEdit2 offers a menu for setting a custom experience drop for killing mobs, mining blocks and catching fishes. In addition, you can add commands that are executed when "dropped".
 
+Compatible with *Folia*.
+
 ![DropEdit2 Showcase](./img/dropedit2-showcase.mp4)
 ## Features
 - Custom item drops by chance (also below 1%)
