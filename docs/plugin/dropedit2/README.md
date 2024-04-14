@@ -24,7 +24,7 @@ Compatible with *Folia*.
   - Experience drops
   - Spawn flags (disallow drops from e.g. spawners)
   - Togglable vanilla drops
-- Mobs from MythicMobs supported
+- Mobs from MythicMobs and ModelEngine supported
 - Batch containers (You can drop multiple drops at once)
 - Command drops
 - .. and much more!
