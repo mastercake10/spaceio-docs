@@ -4,7 +4,7 @@ This is the plugin documentation website of SpaceIO.
 
 If you find something missing, please contact us on [Discord](https://discord.spaceio.xyz/).
 
-If you want to buy plugins with crypto (btc, xmr, eth) please contact me (MasterCake) on discord.
+If you want to buy plugins with crypto (xmr) please contact me (MasterCake) on discord.
 
 ## Developers
 
@@ -17,18 +17,9 @@ Buy me a coffee to keep up my projects!
 
 [Ko-Fi](https://ko-fi.com/mastercake) (get a fancy sponsor role on the spaceio discord!)
 
-Bitcoin Cash (BCH):
-
-qr6mygu4wpmyr6ewtqt4pddcxjnj3d0kvqpd97cxs7
-
 Monero (XMR):
 
-48cSXKFDLaRbfGbSsYEtPD76xctQhDvHrRKW5UQb9yHYbgbJrJMkMX17s6dXRGsmjieDjKAGTut2aMXG2oHCxqE2GJYMJVn
-
-Ethereum (ETH):
-
-0x4B057F1b46dAB2FFb252d2b9E8317DBa747aA16d
-
+8AqXTeXAMFqMqZ43Gtzx2m3jZf7zXBqzVRWo7cVS6CnoRkJZndEFcRh66sFq6TZymagJ2eSTbu2dF8ENFrnZVEDrHMYg2vt
 
 ## Plugins
 
