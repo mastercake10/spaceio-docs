@@ -14,6 +14,7 @@ lang: en-US
 ![AOG Showcase](./img/aog-showcase.gif)
 ## Features
 All features from CustomOreGen plus:
+- Works with a large varity of SkyBlock plugins, see [CustomOreGen](/plugin/customoregen/installation.html#supported-skyblock-plugins).
 - Simple configuration
   - Configuration via an inventory interface - No need to reload
 - [Selactable generators](./usage.md#generator-selector)
@@ -28,6 +29,4 @@ All features from CustomOreGen plus:
   - You can enable this in the config.yml
 - [Placeholders](./usage.md#placeholders)
 - [ItemsAdder](https://itemsadder.plugin.ga/) is supported, so you can use custom blocks.
-- Works with a large varity of SkyBlock plugins, see [CustomOreGen](/plugin/customoregen/installation.html#supported-skyblock-plugins).
 - Fast generators (Turn obsidian into a normal generator instead that is faster)
-

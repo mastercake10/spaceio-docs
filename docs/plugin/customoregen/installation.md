@@ -1,4 +1,4 @@
- 
+
 # Installation
 
 CustomOreGen works best along with a supported **SkyBlock plugin** on the list below.
@@ -12,6 +12,7 @@ Download the [latest version](https://github.com/mastercake10/CustomOreGen/relea
 
 - [BentoBox](https://download.bentobox.world/) (by Poslovitch and Tastybento)
     - The BentoBox Level Addon is required in order to run CustomOreGen
+- [IridiumSkyblock](modrinth.com/plugin/iridiumskyblock/) (by IridiumDevelopment)
 - [ASkyBlock](https://www.spigotmc.org/resources/askyblock.1220/) (by Tastybento)
 - [AcidIsland](https://www.spigotmc.org/resources/acidisland.581/) (by Tastybento)
 - [uSkyBlock](https://www.spigotmc.org/resources/uskyblock.2280/) (by R4zorax)
@@ -30,32 +31,31 @@ If you're an author of a SkyBlock, you can add your hook implementation in [this
 public interface SkyblockAPIHook {
 	/**
 	 * Returns the island level for a defined player uuid
-	 * 
+	 *
 	 * @param uuid UUID of the island owner
 	 * @param in World world of the island
 	 * @return island level
 	 */
 	public int getIslandLevel(UUID uuid, String inWorld);
-	
+
 	/**
 	 * Gets the owner of an island on a certain location
-	 * 
+	 *
 	 * @param loc location to check for island
 	 * @return island owner UUID
 	 */
 	public Optional<UUID> getIslandOwner(Location loc);
-	
+
 	/**
 	 * Obtains the names of the skyblock worlds
-	 * 
+	 *
 	 * @return the names of the skyblock worlds
 	 */
 	public String[] getSkyBlockWorldNames();
-	
+
 	/*
 	 * Calls the specific SkyBlock-API to make it aware of a block placement
-	 * 
+	 *
 	 */
 	public void sendBlockAcknowledge(Block block);
 }
-
