@@ -12,7 +12,7 @@ Download the [latest version](https://github.com/mastercake10/CustomOreGen/relea
 
 - [BentoBox](https://download.bentobox.world/) (by Poslovitch and Tastybento)
     - The BentoBox Level Addon is required in order to run CustomOreGen
-- [IridiumSkyblock](modrinth.com/plugin/iridiumskyblock/) (by IridiumDevelopment)
+- [IridiumSkyblock](https://modrinth.com/plugin/iridiumskyblock/) (by IridiumDevelopment)
 - [ASkyBlock](https://www.spigotmc.org/resources/askyblock.1220/) (by Tastybento)
 - [AcidIsland](https://www.spigotmc.org/resources/acidisland.581/) (by Tastybento)
 - [uSkyBlock](https://www.spigotmc.org/resources/uskyblock.2280/) (by R4zorax)
