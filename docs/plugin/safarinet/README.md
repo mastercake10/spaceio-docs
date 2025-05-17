@@ -12,7 +12,7 @@ lang: en-US
 
 
 ## Features
-* 1.8 through 1.21.4 compatibility (updates for newer versions will usually take less than a week)
+* 1.8 through 1.21.5 compatibility (updates for newer versions will usually take less than a week)
 * Saves the **whole entity data**, including villager trades, chest content in mules, health, sheep color etc.
 * Singleuse and reusable eggs
 * Customizable SafariNet item (**Modeldata** supported)
